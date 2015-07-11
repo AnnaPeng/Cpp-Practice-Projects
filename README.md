@@ -1,6 +1,6 @@
 Practice Projects
 =================
-This is a repository for practice projects (with base code distributed). 
+This is a repository for practice projects (with base code distributed, no details for implementation).
 
 Please fork this project if you would like to try some of them.
 
